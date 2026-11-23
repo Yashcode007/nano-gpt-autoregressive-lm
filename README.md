@@ -180,7 +180,7 @@ Prompt: `"KING:\n"` | Max tokens: 200 | Seed: 42
   OF what wilst Me;
   Then henne a pastmiood
   ThemeNout, if wo tearriounate of loyse of, Plitis;
-  And yat subse arken a hence, do my visel.
+  And yat subse arken a hence, do my visel .
   ```
 
 ---
